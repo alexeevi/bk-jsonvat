@@ -1,7 +1,7 @@
-package src.main.java.load;
+package load;
 
 import com.google.gson.*;
-import src.main.java.data.CountryRate;
+import data.CountryRate;
 
 import java.io.*;
 import java.util.function.Consumer;

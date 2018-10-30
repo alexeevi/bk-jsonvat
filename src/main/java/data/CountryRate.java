@@ -1,6 +1,4 @@
-package src.main.java.data;
-
-import com.google.gson.annotations.Expose;
+package data;
 
 import java.util.*;
 

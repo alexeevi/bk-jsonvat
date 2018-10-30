@@ -1,6 +1,6 @@
-package src.main.java.storage;
+package storage;
 
-import src.main.java.data.CountryRate;
+import data.CountryRate;
 
 import java.util.Collection;
 import java.util.List;

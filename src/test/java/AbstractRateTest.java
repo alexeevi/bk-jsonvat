@@ -1,6 +1,4 @@
-package src.test.java;
-
-import src.main.java.data.CountryRate;
+import data.CountryRate;
 
 import java.util.Collections;
 import java.util.Date;

@@ -1,8 +1,6 @@
-package src.test.java;
-
 import org.junit.Before;
 import org.junit.Test;
-import src.main.java.data.CountryRate;
+import data.CountryRate;
 
 import java.util.*;
 

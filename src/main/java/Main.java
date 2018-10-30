@@ -1,10 +1,8 @@
-package src.main.java;
-
-import src.main.java.data.CountryRate;
-import src.main.java.load.RatesLoader;
-import src.main.java.load.UrlJsonRatesLoader;
-import src.main.java.storage.RatesStorage;
-import src.main.java.storage.SimpleRatesStorage;
+import data.CountryRate;
+import load.RatesLoader;
+import load.UrlJsonRatesLoader;
+import storage.RatesStorage;
+import storage.SimpleRatesStorage;
 
 import java.util.List;
 

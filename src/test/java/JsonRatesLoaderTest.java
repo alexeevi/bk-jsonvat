@@ -1,9 +1,7 @@
-package src.test.java;
-
 import org.junit.Test;
-import src.main.java.data.CountryRate;
-import src.main.java.load.StringJsonRatesLoader;
-import src.main.java.load.UrlJsonRatesLoader;
+import data.CountryRate;
+import load.StringJsonRatesLoader;
+import load.UrlJsonRatesLoader;
 
 import java.io.IOException;
 import java.util.LinkedList;

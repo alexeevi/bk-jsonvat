@@ -1,10 +1,8 @@
-package src.test.java;
-
 import org.assertj.core.groups.Tuple;
 import org.junit.Before;
 import org.junit.Test;
-import src.main.java.data.CountryRate;
-import src.main.java.storage.SimpleRatesStorage;
+import data.CountryRate;
+import storage.SimpleRatesStorage;
 
 import java.util.*;
 

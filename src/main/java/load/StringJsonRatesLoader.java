@@ -1,4 +1,4 @@
-package src.main.java.load;
+package load;
 
 import java.io.*;
 

@@ -1,6 +1,6 @@
-package src.main.java.load;
+package load;
 
-import src.main.java.data.CountryRate;
+import data.CountryRate;
 
 import java.io.IOException;
 import java.util.function.Consumer;
